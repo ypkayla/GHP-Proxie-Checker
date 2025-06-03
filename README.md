@@ -1,3 +1,5 @@
+**5 stars for v3 with better design and a hotmail checker**
+
 # 🔍 GHP Proxy Checker
 **Advanced Multi-Threaded Proxy Validation Tool**
 
