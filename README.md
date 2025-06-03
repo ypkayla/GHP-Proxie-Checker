@@ -1,4 +1,4 @@
-🔍 GHP Proxy Checker
+# 🔍 GHP Proxy Checker
 Advanced Multi-Threaded Proxy Validation Tool
 
 A high-performance Python tool for validating HTTP/HTTPS/SOCKS proxies with:
